@@ -1,0 +1,6 @@
+{
+  "name": "Worksense Analytics",
+  "description": "A beautiful, modular sales and performance analytics dashboard with real-time charts, product lists, and interactive widget customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
